@@ -1,0 +1,2 @@
+1. netlify
+2. vercel
