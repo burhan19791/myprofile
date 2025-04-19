@@ -1,0 +1,7 @@
+git config user.name
+git config user.name "burhan19791"
+git config user.email
+git config user.email "burhanaliishah19791@icloud.com"
+git remote -v
+git remote set-url origin https://github.com/burhan19791/myprofile.git
+git clone https://github.com/burhan19791/myprofile.git
