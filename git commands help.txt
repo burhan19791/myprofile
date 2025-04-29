@@ -5,3 +5,8 @@ git config user.email "burhanaliishah19791@icloud.com"
 git remote -v
 git remote set-url origin https://github.com/burhan19791/myprofile.git
 git clone https://github.com/burhan19791/myprofile.git
+
+# to enter an empty commit, multiline
+# it opens up a vm editor. press ESC and type :wq to write and quit and then press enter
+git commit --allow-empty
+

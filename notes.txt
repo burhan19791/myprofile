@@ -2,3 +2,30 @@ burhanalishah.info    squarespace
 https://account.squarespace.com/
 burhanalishah@gmail.com 
 Octopus2011@
+
+HTML semantics
+header, footer, nav, main, section, article, aside, figure, figcaption, address, details, time, 
+.
+element selector p {}, id selector #para1 {}, class Selector .center {}, universal selector * {}, grouping selector h1, h2, p {}
+.
+position [static/relative/fixed/absolute/sticky]
+.
+combinators div p, div > p
+.
+pseudo-classes a:link, a:visited, a:hover, a:active
+.
+pseudo-Elements h1::before, h1::after, p::first-letter, p::first-line, p::first-word
+.
+attribute selector input[type="text"]
+.
+css specificity
+.
+.
+flex model
+flex container > flex-direction, flex-wrap, flex-flow, justify-content, align-items, align-content
+flex item      > order, flex-grow, flex-shrink, flex-basis, flex, align-self
+grid           > column-gap, row-gap, gap, grid-column-start, grid-column-end, grid-column, grid-row-start, grid-row-end, grid-row
+                 grid [fr]
+                 justify-content, align-content
+
+
